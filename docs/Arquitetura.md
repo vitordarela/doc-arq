@@ -19,5 +19,9 @@ No diagrama abaixo, é possível evidenciar essas funcionalidades e como o Ident
 
 * **Para proteger os dados do usuário e dar-lhes controle sobre eles** - Permitir registrar, revisar e revogar consentimentos do usuário, aderindo aos princípios de privacidade desde a concepção e aos padrões da indústria impostos pelo GDPR e leis de privacidade semelhantes, como CCPA e LGPD.
 
+Como podemos ver, o Identity Server tem um papel estratégico dentro da organização, o que nos possibilita manter e expandir com segurança todo o nosso parque aplicacional tanto interno como externos garantindo uma exposição para a internet de forma segura e utilizando os principais protocolos de segurança utilizados atualmente. 
+
+O Identity Service ainda nos prove uma flexibilidade de utilizar diferentes padrões e autenticações conforme o cenário aplicacional que tivermos, garantindo assim um crescimento controlado e robustez no nosso controle de utilizadores. 
+
 
 Avançar > [Aplicações Web - Padrão de Autenticação](WebApps.md)
